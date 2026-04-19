@@ -139,8 +139,7 @@ The Reviewer Agent evaluates content based on:
 
 ## Author
 
-Your Name
-
+Deepti Gaur
 ---
 
 ## License
